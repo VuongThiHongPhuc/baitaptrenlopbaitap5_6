@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\models\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\models\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\views\\student\\getstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\views\\student\\getstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\models\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\models\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\models\\viewmodel\\vmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\models\\viewmodel\\vmstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\views\\student\\editstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\views\\student\\editstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\views\\student\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\views\\student\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|c:\\users\\gnhv2\\documents\\college material\\--- l\u1EADp tr\u00ECnh web\\th\u1EF1c h\u00E0nh\\practice\\s5-6\\example\\example\\models\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AD6D8C-66B3-488C-A2CF-A1F91AECD134}|Example\\Example.csproj|solutionrelative:example\\models\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetStudentById.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\GetStudentById.cshtml",
+              "RelativeDocumentMoniker": "Example\\Views\\Student\\GetStudentById.cshtml",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\GetStudentById.cshtml",
+              "RelativeToolTip": "Example\\Views\\Student\\GetStudentById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T01:50:22.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Example\\Views\\Student\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\GetAll.cshtml",
+              "RelativeToolTip": "Example\\Views\\Student\\GetAll.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T00:38:12.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Models\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Example\\Models\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Models\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Example\\Models\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T00:58:55.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Example\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Example\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T00:30:48.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VMStudent.cs",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Models\\ViewModel\\VMStudent.cs",
+              "RelativeDocumentMoniker": "Example\\Models\\ViewModel\\VMStudent.cs",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Models\\ViewModel\\VMStudent.cs",
+              "RelativeToolTip": "Example\\Models\\ViewModel\\VMStudent.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T00:44:30.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Models\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "Example\\Models\\Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Models\\Domain\\Student.cs",
+              "RelativeToolTip": "Example\\Models\\Domain\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:27:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Example\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "Example\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T00:42:53.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditStudentById.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\EditStudentById.cshtml",
+              "RelativeDocumentMoniker": "Example\\Views\\Student\\EditStudentById.cshtml",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\EditStudentById.cshtml",
+              "RelativeToolTip": "Example\\Views\\Student\\EditStudentById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T00:48:14.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Program.cs",
+              "RelativeDocumentMoniker": "Example\\Program.cs",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Program.cs",
+              "RelativeToolTip": "Example\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:46:14.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Example\\Views\\Student\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Views\\Student\\NotFound.cshtml",
+              "RelativeToolTip": "Example\\Views\\Student\\NotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T00:53:30.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\appsettings.json",
+              "RelativeDocumentMoniker": "Example\\appsettings.json",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\appsettings.json",
+              "RelativeToolTip": "Example\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T03:28:12.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Example\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "Example\\Data\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T03:27:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Models\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Example\\Models\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\gnhv2\\Documents\\College Material\\--- L\u1EADp tr\u00ECnh Web\\Th\u1EF1c h\u00E0nh\\PRACTICE\\S5-6\\Example\\Example\\Models\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "Example\\Models\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T00:57:02.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
